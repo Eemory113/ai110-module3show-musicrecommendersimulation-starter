@@ -73,6 +73,8 @@ Use this section to document the experiments you ran. For example:
 - What happened when you changed the weight on genre from 2.0 to 0.5
 - What happened when you added tempo or valence to the score
 - How did your system behave for different types of users
+-i tried to write a script to change how much it weighted each
+-I changed the tempo and variance and got minor diffrences
 
 ---
 
@@ -209,3 +211,6 @@ A few sentences about what you learned:
 - How did building this change how you think about real music recommenders
 - Where do you think human judgment still matters, even if the model seems "smart"
 
+## TF summary
+
+The core concept that students need to understand for this one is how to work with AI in developing recipies for apps that weigh various factors. I think students are going to struggle with making a descision on how they are going to model the recipe, they will have issues with some suggested code having some mismatched pieces of code. I also think the pytest will be an issue too in regards to mismatched code. I think that the AI often suggested that i nearly rewrite all of my code which i often had to correct, on the other hand it got got alot of the implamentation of the code correct. I think the best thing i can do for this project is to give students advice based on my own experiance with troubleshooting for this project, i'd remind them to doublecheck the suggested code for this project.
